@@ -48,6 +48,13 @@ In addition to the composed atlas files the following files need to be included 
 
 Once you have all needed files in once place create a new directory with the same name as the tileset you are building and move the files inside. Final step is to package the directory using your favorite archiver program such as zip or 7zip. Now your tileset is ready to be shared with the world!
 
+## Contributing
+
+Everyone is encouraged to contribute to the project. 
+
+- If you have questions or requests feel free to open a [new issue](https://github.com/matshou/CBN-Tilesets/issues/new). 
+- If you want to submit tile changes or new tiles; fork the project, commit your changes and make a pull request.
+
 ## License
 
 Cataclysm: Bright Nights and all tilesets released with the game are the result of contributions from volunteers under the Creative Commons Attribution ShareAlike 3.0 license. The code and content of the game is free to use, modify, and redistribute for any purpose whatsoever. See [Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/) for details. Some code distributed with the project is not part of the project and is released under different software licenses, the files covered by different software licenses have their own license notices.
