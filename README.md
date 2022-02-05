@@ -1,6 +1,6 @@
 # Cataclysm: Bright Nights Tilesets
 
-This repository contains tools and components you need to build your own tilesets for Cataclysm: Bright Nights. Currently only a few tilesets are present here but that should change in the future. Everyone is encouraged to contribute to the project.
+This is an unofficial master tileset repository for Cataclysm: Bright Nights. It contains tools and components you need to build your own fully functional tilesets. Currently only a few tilesets are supported but that should change in the future.
 
 ## Building tilesets
 
