@@ -7,6 +7,9 @@ gfx/*/tile_config.json
 # built sprite sheets
 gfx/*/*.png
 
+# distribution
+dist/*
+
 # other files
 .DS_Store
 desktop.ini
