@@ -1,0 +1,12 @@
+# python cache
+__pycache__
+
+# generated on build
+gfx/*/tile_config.json
+
+# built sprite sheets
+gfx/*/*.png
+
+# other files
+.DS_Store
+desktop.ini
